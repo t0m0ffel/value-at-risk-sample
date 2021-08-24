@@ -1,0 +1,16 @@
+,expected_shortfall,value_at_risk,method,symbol,alpha
+0,0.1208,0.0986,Historical Data,Apple,0.05
+1,0.137,0.1113,Normal Distribution,Apple,0.05
+2,0.1356,0.1096,Normal Distribution Sampling,Apple,0.05
+3,0.1434,0.1108,Historical Data,Swiss Re,0.05
+4,0.1386,0.1137,Normal Distribution,Swiss Re,0.05
+5,0.1379,0.1141,Normal Distribution Sampling,Swiss Re,0.05
+6,0.1901,0.1675,Historical Data,Tesla,0.05
+7,0.2064,0.169,Normal Distribution,Tesla,0.05
+8,0.2001,0.1652,Normal Distribution Sampling,Tesla,0.05
+9,0.0474,0.0436,Historical Data,Gold,0.05
+10,0.0538,0.0429,Normal Distribution,Gold,0.05
+11,0.053,0.0426,Normal Distribution Sampling,Gold,0.05
+12,0.2795,0.0759,Historical Data,Bitcoin,0.05
+13,0.1993,0.1615,Normal Distribution,Bitcoin,0.05
+14,0.1979,0.1606,Normal Distribution Sampling,Bitcoin,0.05
